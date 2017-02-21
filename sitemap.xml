@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://emzi.github.io/blog/hello-world/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/about/</loc>
+    <lastmod>2017-02-16T19:19:45+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/na/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/tags/about/</loc>
+    <lastmod>2017-02-16T19:19:45+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/categories/about/</loc>
+    <lastmod>2017-02-16T19:19:45+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/categories/articles/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/blog/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/na/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/categories/posts/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/tags/tag1/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/tags/tag2/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/tags/tag3/</loc>
+    <lastmod>2017-02-16T19:39:25+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://emzi.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mojib Zokaie</title>
+    <link>https://emzi.github.io/categories/posts/index.xml</link>
+    <description>Recent content in Posts on Mojib Zokaie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://emzi.github.io/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello dlroW</title>
+      <link>https://emzi.github.io/blog/hello-world/</link>
+      <pubDate>Thu, 16 Feb 2017 19:39:25 +0330</pubDate>
+      
+      <guid>https://emzi.github.io/blog/hello-world/</guid>
+      <description>&lt;p&gt;Hi there&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Test Post
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Some of text Features powered by Markdown:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://emzi.github.io/blog/hello-world/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bullet list&lt;/li&gt;
+&lt;li&gt;Bullet list&lt;/li&gt;
+&lt;li&gt;Bullet list&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Quote”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

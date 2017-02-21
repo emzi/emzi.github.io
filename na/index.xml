@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nas on Mojib Zokaie</title>
+    <link>https://emzi.github.io/na/index.xml</link>
+    <description>Recent content in Nas on Mojib Zokaie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://emzi.github.io/na/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>N/A</title>
+      <link>https://emzi.github.io/na/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://emzi.github.io/na/</guid>
+      <description>&lt;p&gt;Notes: This is another section of the site.&lt;/p&gt;
+
+&lt;p&gt;n/a or N/A is a common abbreviation in tables and lists for not applicable, not available, or no answer. It is used to indicate when information in a certain table cell is not provided, either because it does not apply to a particular case in question or because the answer is not available.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/N/a&#34;&gt;wikipedia&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
